@@ -1,0 +1,6 @@
+framework module ExpandView {
+  umbrella header "ExpandView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ExpandView (0.0.1)
+
+DEPENDENCIES:
+  - ExpandView (from `../`)
+
+EXTERNAL SOURCES:
+  ExpandView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExpandView: e6ff8bc0cddec59759f930606425f5fafc9839c1
+
+PODFILE CHECKSUM: bd4de8f1b5d07fe626aa15e35fc7f6719ffcb56f
+
+COCOAPODS: 1.9.3
