@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'ExpandView'
   s.version          = '0.0.1'
   s.summary          = 'ExpandView is design library pod'
-  s.description      = "ExpandView is a library, which supports show list enxpand or colapse items"
+  s.description      = "ExpandView is a component. You can expand and collapse by clicking or touching on itself"
   s.homepage         = 'https://github.com/nguyenhoangit57'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hoang Nguyen' => 'hoangnguyen4005@gmail.com' }
