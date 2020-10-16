@@ -1,6 +1,6 @@
 # ExpandView
   - ExpandView is a component. You can expand and collapse by clicking or touching on itself.
-  - ExpandView need contents to be ale to display, which you will need to provide for them.
+  - ExpandView needs content to be able to display, which you will need to provide for them.
   - ExpandView is very easy for editing theme as font, color, border.
   
 ![Simulator Screen Shot - iPhone 8 - 2020-10-16 at 15 57 17](https://user-images.githubusercontent.com/15699560/96229149-1c259400-0fc9-11eb-95f7-4ffe0f9dae5d.png)
