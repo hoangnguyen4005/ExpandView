@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ExpandView'
   s.version          = '0.0.1'
-  s.summary          = 'ToastMessage is design library pod'
+  s.summary          = 'ExpandView is design library pod'
   s.description      = "ExpandView is a library, which supports show list enxpand or colapse items"
   s.homepage         = 'https://github.com/nguyenhoangit57'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
