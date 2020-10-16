@@ -1,5 +1,5 @@
 # ExpandView
-  - ExpandView is a component. It allow to you can expand and collapse by clicking or touching on itself.
+  - ExpandView is a component. You can expand and collapse by clicking or touching on itself.
   - ExpandView need contents to be ale to display, which you will need to provide for them.
   - ExpandView is very easy for editing theme as font, color, border.
   
